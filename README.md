@@ -1,5 +1,8 @@
 # websocket-php-ratchet-chat #
 
+![chat](https://github.com/flitzso/websocket-php-ratchet-chat/assets/106411702/85cbfcb6-c656-4e6a-9c7b-4927d4a13063)
+
+
 COMO RODAR O PROJETO BAIXADO
 Verificar se está instalado o Composer
 ### composer
